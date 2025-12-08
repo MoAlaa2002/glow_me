@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405241642480",
+    "project_id": "glow-me-9ddd0",
+    "storage_bucket": "glow-me-9ddd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405241642480:android:19beb293639546fa76f135",
+        "android_client_info": {
+          "package_name": "com.example.glow_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19-9dR-gkpz0cebEBVVLuSzaeoex8sUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
