@@ -18,7 +18,8 @@ Glow Me is a **modern and responsive cosmetics shopping app** that allows users 
 - **Shopping & Product Management**
   - Browse products from **[Makeup API](https://makeup-api.herokuapp.com/)**  
   - View products randomly or by category/type  
-  - Add items to **Cart** or **Wishlist** (stored locally using **SharedPreferences**)  
+  - Add items to **Cart** or **Wishlist** using **Provider**  
+  - Store data locally using **SharedPreferences** (cached items)  
 
 - **User Interface**
   - Fully **responsive UI** for all screen sizes  
@@ -31,6 +32,7 @@ Glow Me is a **modern and responsive cosmetics shopping app** that allows users 
 - **Architecture**
   - **MVVM** (Model-View-ViewModel) pattern for clean separation of logic  
   - State management with **Cubit (Bloc)**  
+  - **Provider** for cart & wishlist management  
   - API integration using **Dio**  
   - Clean **Repository Pattern** for organized code  
 
@@ -40,6 +42,7 @@ Glow Me is a **modern and responsive cosmetics shopping app** that allows users 
 
 - **Flutter & Dart**  
 - **Firebase Authentication**  
+- **Provider**  
 - **SharedPreferences**  
 - **Dio**  
 - **Cubit (Bloc)**  
