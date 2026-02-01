@@ -60,5 +60,6 @@ Glow Me is a **modern and responsive cosmetics shopping app** that allows users 
 git clone <https://github.com/MoAlaa2002/glow_me>
 
 ## 🎥 Demo Video
-👉 [Watch the demo video on Google Drive](https://drive.google.com/file/d/1CZL1mdxco8KG8sQFHq26PWsKoBez5HfE/view?usp=sharing)
+👉 Watch a short demo of the app: [Google Drive Link](https://drive.google.com/file/d/1CZL1mdxco8KG8sQFHq26PWsKoBez5HfE/view?usp=sharing)
+
 
