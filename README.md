@@ -49,7 +49,11 @@ Glow Me is a **modern and responsive cosmetics shopping app** that allows users 
 - **MVVM Pattern**  
 - **Shimmer**  
 - **Stripe Payment**  
-- **Makeup API**  
+- **Makeup API**
+
+
+## 🎥 Demo Video
+👉 Watch a short demo of the app: [Google Drive Link](https://drive.google.com/file/d/1CZL1mdxco8KG8sQFHq26PWsKoBez5HfE/view?usp=sharing)
 
 ---
 
@@ -61,8 +65,6 @@ git clone https://github.com/MoAlaa2002/glow_me
 
 ---
 
-## 🎥 Demo Video
-👉 Watch a short demo of the app: [Google Drive Link](https://drive.google.com/file/d/1CZL1mdxco8KG8sQFHq26PWsKoBez5HfE/view?usp=sharing)
 
 
 
